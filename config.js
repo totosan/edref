@@ -2,10 +2,10 @@
 //you can add any that you may need for your application
 
 module.exports = {
-    host: 'betty.local',
+    host: '192.168.1.12',
     user: 'root',
-    password: '12345678',
+    password: 'QxT638_!',
     projectName: 'edref',
-    startFile: 'app.js',
+    startFile: 'CO2_sensor.js',
     sshPort: 22
 }
